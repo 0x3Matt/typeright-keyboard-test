@@ -1,0 +1,106 @@
+body {
+    background-image: url('space.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent overlay */
+    background-blend-mode: overlay;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white for content */
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+#text-to-type {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+#text-to-type .correct {
+    color: green;
+}
+
+#text-to-type .incorrect {
+    color: red;
+}
+
+textarea {
+    width: 100%;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#results {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+#reset-btn {
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#reset-btn:hover {
+    background-color: #555;
+}
+
+#keyboard {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark semi-transparent overlay */
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.key {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #eee;
+    transition: background-color 0.1s;
+}
+
+.key.active {
+    background-color: #aaa;
+}
