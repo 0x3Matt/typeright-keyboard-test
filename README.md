@@ -2,11 +2,7 @@
 
 A modern, accurate typing speed test application that measures your real typing skills without browser interference.
 
-<<<<<<< HEAD
 ![Typeright Keyboard Test Screenshot](typetool-screenshot.png)
-=======
-
->>>>>>> d23d33eacd9629e53a8bed83add02e435b2c482f
 
 ## ✨ Features
 
@@ -39,11 +35,7 @@ https://github.com/user-attachments/assets/Screen%20Recording%202025-06-26%20at%
 
 ## 🚀 Getting Started
 
-<<<<<<< HEAD
 ### Option 1: Live Demo (Recommended)
-=======
-### Option 1: GitHub Pages (Recommended)
->>>>>>> d23d33eacd9629e53a8bed83add02e435b2c482f
 Visit the live demo: [https://typeright-keyboard-test.vercel.app/](https://typeright-keyboard-test.vercel.app/)
 
 ### Option 2: Local Setup
