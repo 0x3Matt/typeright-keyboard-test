@@ -2,7 +2,7 @@
 
 A modern, accurate typing speed test application that measures your real typing skills without browser interference.
 
-![Typing Test Demo](space.jpg)
+![Typeright Keyboard Test Screenshot](typetool-screenshot.png)
 
 ## ✨ Features
 
@@ -22,10 +22,21 @@ Unlike other typing tests, this application disables all browser assistance feat
 
 This ensures you're testing your **actual** typing skills, not your browser's assistance.
 
+## 🎬 Demo Video
+
+Here's a showcase of the typing test in action:
+
+https://github.com/user-attachments/assets/Screen%20Recording%202025-06-26%20at%2021.48.56.mov
+
+<video width="800" controls>
+  <source src="Screen Recording 2025-06-26 at 21.48.56.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
 ## 🚀 Getting Started
 
-### Option 1: GitHub Pages (Recommended)
-Visit the live demo: [https://0x3matt.github.io/typeright-keyboard-test](https://0x3matt.github.io/typeright-keyboard-test)
+### Option 1: Live Demo (Recommended)
+Visit the live demo: [https://typeright-keyboard-test.vercel.app/](https://typeright-keyboard-test.vercel.app/)
 
 ### Option 2: Local Setup
 1. Clone the repository:
