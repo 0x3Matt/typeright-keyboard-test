@@ -25,7 +25,7 @@ This ensures you're testing your **actual** typing skills, not your browser's as
 ## 🚀 Getting Started
 
 ### Option 1: GitHub Pages (Recommended)
-Visit the live demo: [https://0x3matt.github.io/typeright-keyboard-test](https://0x3matt.github.io/typeright-keyboard-test)
+Visit the live demo: [https://typeright-keyboard-test.vercel.app/](https://typeright-keyboard-test.vercel.app/)
 
 ### Option 2: Local Setup
 1. Clone the repository:
