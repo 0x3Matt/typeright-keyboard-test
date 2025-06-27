@@ -2,7 +2,7 @@
 
 A modern, accurate typing speed test application that measures your real typing skills without browser interference.
 
-![Typing Test Demo](space.jpg)
+
 
 ## ✨ Features
 
